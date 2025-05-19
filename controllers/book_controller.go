@@ -11,7 +11,7 @@ import (
     "example.com/go-mongo-app/services"
 
     // Las siguientes importaciones se utilizarán más adelante en el microservicio
-    // y se comentan temporalmente para evitar errores de compilación.
+    // y se comentan temporalmente para evitar errores de compilación. HOLI
     // "fmt"
     // "log"
 )
