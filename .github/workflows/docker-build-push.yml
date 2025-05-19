@@ -166,5 +166,5 @@ jobs:
           context: .
           push: true
           tags: |
-            gabrielagg07/ggalvisg:${{ needs.release.outputs.version }}
-            ghcr.io/${{ github.repository_owner }}/ggalvisg:${{ needs.release.outputs.version }}
+            gabrielagg07/update-books:${{ needs.release.outputs.version }}
+            ghcr.io/${{ github.repository_owner }}/update-books:${{ needs.release.outputs.version }}
